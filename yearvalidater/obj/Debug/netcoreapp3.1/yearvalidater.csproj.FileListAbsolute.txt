@@ -1,0 +1,4 @@
+C:\Users\opilane\source\repos\LOGITpe20-IDCode-Reader\yearvalidater\obj\Debug\netcoreapp3.1\yearvalidater.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\LOGITpe20-IDCode-Reader\yearvalidater\obj\Debug\netcoreapp3.1\yearvalidater.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\LOGITpe20-IDCode-Reader\yearvalidater\obj\Debug\netcoreapp3.1\yearvalidater.AssemblyInfo.cs
+C:\Users\opilane\source\repos\LOGITpe20-IDCode-Reader\yearvalidater\obj\Debug\netcoreapp3.1\yearvalidater.csproj.CoreCompileInputs.cache

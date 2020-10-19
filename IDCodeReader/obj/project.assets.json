@@ -8,20 +8,27 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\julia.voronetskaja\\.nuget\\packages\\": {}
+    "C:\\Users\\opilane\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julia.voronetskaja\\source\\repos\\IDCodeReader\\IDCodeReader\\IDCodeReader.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\IDCodeReader\\IDCodeReader.csproj",
       "projectName": "IDCodeReader",
-      "projectPath": "C:\\Users\\julia.voronetskaja\\source\\repos\\IDCodeReader\\IDCodeReader\\IDCodeReader.csproj",
-      "packagesPath": "C:\\Users\\julia.voronetskaja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julia.voronetskaja\\source\\repos\\IDCodeReader\\IDCodeReader\\obj\\",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\IDCodeReader\\IDCodeReader.csproj",
+      "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\LOGITpe20-IDCode-Reader\\IDCodeReader\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\julia.voronetskaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
